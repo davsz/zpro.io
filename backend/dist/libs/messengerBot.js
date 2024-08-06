@@ -1,0 +1,183 @@
+'use strict';
+const _0x1fa14 = _0xbbe4;
+(function (_0x447cc7, _0x7b3989) {
+    const _0xad7a70 = _0xbbe4, _0x36daea = _0x447cc7();
+    while (!![]) {
+        try {
+            const _0x4a7762 = -parseInt(_0xad7a70(0x1c8)) / (0x3 * 0xc2d + -0x743 + -0x1d43) + parseInt(_0xad7a70(0x1d9)) / (0xdbd + 0x242 * 0x2 + -0x123f * 0x1) * (-parseInt(_0xad7a70(0x1ee)) / (0x4 * -0x37d + -0x509 + -0x260 * -0x8)) + -parseInt(_0xad7a70(0x1e6)) / (-0x1cb2 + -0x209f + 0x1 * 0x3d55) + parseInt(_0xad7a70(0x1d3)) / (-0x1e3e + 0x1e8b + 0x9 * -0x8) * (parseInt(_0xad7a70(0x1eb)) / (0x2 * 0x67e + 0x2312 + -0x1804 * 0x2)) + parseInt(_0xad7a70(0x1b6)) / (0x6 * -0x57a + -0x22ea + 0x1 * 0x43cd) + -parseInt(_0xad7a70(0x1c0)) / (0xbaa + 0x1f * 0xc2 + -0x2320) + parseInt(_0xad7a70(0x1d2)) / (-0x1 * -0x194 + 0x2 * 0x335 + -0x7f5);
+            if (_0x4a7762 === _0x7b3989)
+                break;
+            else
+                _0x36daea['push'](_0x36daea['shift']());
+        } catch (_0x18609f) {
+            _0x36daea['push'](_0x36daea['shift']());
+        }
+    }
+}(_0x1986, -0x3 * -0x800f + 0x3b0a4 + -0x24eee * 0x1));
+var __awaiter = this && this[_0x1fa14(0x1e9)] || function (_0x56520b, _0x308fee, _0x33369c, _0x2c3766) {
+        const _0x45bd14 = _0x1fa14, _0x30bbc2 = {
+                'VlGEa': function (_0x2144e7, _0x18c25f) {
+                    return _0x2144e7(_0x18c25f);
+                },
+                'yvlgb': function (_0x211117, _0x1b5d54) {
+                    return _0x211117 instanceof _0x1b5d54;
+                },
+                'zToqz': function (_0x192d83, _0x489a17) {
+                    return _0x192d83(_0x489a17);
+                },
+                'FgBpd': _0x45bd14(0x1e3),
+                'VRUvj': function (_0x350f1c, _0x18d404) {
+                    return _0x350f1c(_0x18d404);
+                }
+            };
+        function _0x50a48b(_0x2221ff) {
+            const _0x470ac1 = _0x45bd14, _0x30d4d2 = {
+                    'fNbDq': function (_0x143315, _0x420034) {
+                        const _0x4c53d7 = _0xbbe4;
+                        return _0x30bbc2[_0x4c53d7(0x1c2)](_0x143315, _0x420034);
+                    }
+                };
+            return _0x30bbc2[_0x470ac1(0x1cc)](_0x2221ff, _0x33369c) ? _0x2221ff : new _0x33369c(function (_0x4ca513) {
+                const _0x388084 = _0x470ac1;
+                _0x30d4d2[_0x388084(0x1d5)](_0x4ca513, _0x2221ff);
+            });
+        }
+        return new (_0x33369c || (_0x33369c = Promise))(function (_0x40371c, _0x4a640f) {
+            const _0x280d34 = _0x45bd14, _0x5ecd29 = {
+                    'ceqdl': function (_0x46fadb, _0x4cc196) {
+                        const _0x328354 = _0xbbe4;
+                        return _0x30bbc2[_0x328354(0x1d8)](_0x46fadb, _0x4cc196);
+                    },
+                    'PfRGl': _0x30bbc2[_0x280d34(0x1dc)]
+                };
+            function _0x3cef15(_0x31ff0f) {
+                const _0x82acba = _0x280d34;
+                try {
+                    _0x5ecd29[_0x82acba(0x1e1)](_0x98c7f2, _0x2c3766[_0x82acba(0x1e7)](_0x31ff0f));
+                } catch (_0x422b63) {
+                    _0x5ecd29[_0x82acba(0x1e1)](_0x4a640f, _0x422b63);
+                }
+            }
+            function _0x590dad(_0x32a590) {
+                const _0x1a4f28 = _0x280d34;
+                try {
+                    _0x5ecd29[_0x1a4f28(0x1e1)](_0x98c7f2, _0x2c3766[_0x5ecd29[_0x1a4f28(0x1c5)]](_0x32a590));
+                } catch (_0x722bd8) {
+                    _0x5ecd29[_0x1a4f28(0x1e1)](_0x4a640f, _0x722bd8);
+                }
+            }
+            function _0x98c7f2(_0xd6056b) {
+                const _0x3bab31 = _0x280d34;
+                _0xd6056b[_0x3bab31(0x1cd)] ? _0x5ecd29[_0x3bab31(0x1e1)](_0x40371c, _0xd6056b[_0x3bab31(0x1d1)]) : _0x5ecd29[_0x3bab31(0x1e1)](_0x50a48b, _0xd6056b[_0x3bab31(0x1d1)])[_0x3bab31(0x1b5)](_0x3cef15, _0x590dad);
+            }
+            _0x30bbc2[_0x280d34(0x1de)](_0x98c7f2, (_0x2c3766 = _0x2c3766[_0x280d34(0x1b9)](_0x56520b, _0x308fee || []))[_0x280d34(0x1e7)]());
+        });
+    }, __importDefault = this && this[_0x1fa14(0x1cf) + _0x1fa14(0x1e2)] || function (_0x162578) {
+        const _0x2a50c1 = _0x1fa14;
+        return _0x162578 && _0x162578[_0x2a50c1(0x1c7)] ? _0x162578 : { 'default': _0x162578 };
+    };
+const _0x1f0bc0 = {};
+_0x1f0bc0[_0x1fa14(0x1d1)] = !![], Object[_0x1fa14(0x1bc) + _0x1fa14(0x1d6)](exports, _0x1fa14(0x1c7), _0x1f0bc0), exports[_0x1fa14(0x1c1) + _0x1fa14(0x1f0)] = exports[_0x1fa14(0x1e8) + _0x1fa14(0x1d0)] = void (0x18a * -0xd + 0x1e * -0x96 + 0x11 * 0x236);
+const messaging_api_messenger_1 = require(_0x1fa14(0x1df) + _0x1fa14(0x1ca) + _0x1fa14(0x1d4)), process_1 = __importDefault(require(_0x1fa14(0x1c4))), AppError_1 = __importDefault(require(_0x1fa14(0x1db) + _0x1fa14(0x1ce))), logger_1 = require(_0x1fa14(0x1d7) + _0x1fa14(0x1c3)), sessionsMessenger = [], initMessengerBot = _0x41e4e8 => __awaiter(void (0x167 + -0x1 * -0x1be3 + -0x1d4a), void (0xe0c + 0x2171 + -0x2f7d), void (-0x24c + 0x1406 * 0x1 + 0x2 * -0x8dd), function* () {
+        const _0xcf8322 = _0x1fa14, _0x2e8cb2 = {};
+        _0x2e8cb2[_0xcf8322(0x1ba)] = _0xcf8322(0x1c9) + _0xcf8322(0x1b8), _0x2e8cb2[_0xcf8322(0x1e5)] = function (_0x17dcb8, _0x4a7cfa) {
+            return _0x17dcb8 === _0x4a7cfa;
+        };
+        const _0x1d72f3 = _0x2e8cb2;
+        try {
+            const _0x133bbb = _0x41e4e8[_0xcf8322(0x1bf)], _0x2bf821 = process_1[_0xcf8322(0x1ef)][_0xcf8322(0x1e4)][_0xcf8322(0x1be) + _0xcf8322(0x1ea)];
+            if (!_0x133bbb)
+                throw new Error(_0x1d72f3[_0xcf8322(0x1ba)]);
+            const _0x25ab79 = {};
+            _0x25ab79[_0xcf8322(0x1ed) + 'n'] = _0x133bbb, _0x25ab79[_0xcf8322(0x1e0)] = _0x2bf821;
+            const _0x4874e5 = new messaging_api_messenger_1[(_0xcf8322(0x1c6)) + (_0xcf8322(0x1cb))](_0x25ab79);
+            _0x4874e5['id'] = _0x41e4e8['id'];
+            const _0x3c4799 = sessionsMessenger[_0xcf8322(0x1ec)](_0x3e8797 => _0x3e8797['id'] === _0x41e4e8['id']);
+            return _0x1d72f3[_0xcf8322(0x1e5)](_0x3c4799, -(-0x140a + 0x8b4 + 0xb57)) ? (_0x4874e5['id'] = _0x41e4e8['id'], sessionsMessenger[_0xcf8322(0x1bd)](_0x4874e5)) : (_0x4874e5['id'] = _0x41e4e8['id'], sessionsMessenger[_0x3c4799] = _0x4874e5), _0x4874e5;
+        } catch (_0x21177c) {
+            logger_1[_0xcf8322(0x1dd)][_0xcf8322(0x1da)](_0xcf8322(0x1e8) + _0xcf8322(0x1bb) + _0xcf8322(0x1b7) + ':\x20' + _0x21177c);
+            throw new AppError_1[(_0xcf8322(0x1ef))]('' + _0x21177c, 0x1727 + -0x143c + -0x157);
+        }
+    });
+function _0x1986() {
+    const _0x5e781a = [
+        'ger',
+        'fNbDq',
+        'erty',
+        '../utils/l',
+        'zToqz',
+        '2924RyXvqP',
+        'error',
+        '../errors/',
+        'FgBpd',
+        'logger',
+        'VRUvj',
+        'messaging-',
+        'appId',
+        'ceqdl',
+        'fault',
+        'throw',
+        'env',
+        'XTUhN',
+        '619820DMnufd',
+        'next',
+        'initMessen',
+        '__awaiter',
+        'PP_ID',
+        '6iffWyE',
+        'findIndex',
+        'accessToke',
+        '78xKTHzM',
+        'default',
+        'erBot',
+        'then',
+        '727181sAnBLq',
+        'or\x20|\x20Error',
+        'configured',
+        'apply',
+        'BJgpw',
+        'gerBot\x20err',
+        'defineProp',
+        'push',
+        'FACEBOOK_A',
+        'tokenAPI',
+        '2580736sIecXG',
+        'getMesseng',
+        'VlGEa',
+        'ogger',
+        'process',
+        'PfRGl',
+        'MessengerC',
+        '__esModule',
+        '203615pdmNMy',
+        'Not\x20token\x20',
+        'api-messen',
+        'lient',
+        'yvlgb',
+        'done',
+        'AppError',
+        '__importDe',
+        'gerBot',
+        'value',
+        '5552127ygVUMB',
+        '936435dWRqYS'
+    ];
+    _0x1986 = function () {
+        return _0x5e781a;
+    };
+    return _0x1986();
+}
+function _0xbbe4(_0x253515, _0x16b72b) {
+    const _0x6d27e0 = _0x1986();
+    return _0xbbe4 = function (_0x1d8997, _0x2d8eeb) {
+        _0x1d8997 = _0x1d8997 - (0x234e + -0x21d1 + 0x38);
+        let _0x19af87 = _0x6d27e0[_0x1d8997];
+        return _0x19af87;
+    }, _0xbbe4(_0x253515, _0x16b72b);
+}
+exports[_0x1fa14(0x1e8) + _0x1fa14(0x1d0)] = initMessengerBot;
+const getMessengerBot = _0x1dca30 => {
+    const _0x487513 = _0x1fa14, _0x55e396 = sessionsMessenger[_0x487513(0x1ec)](_0x2d045c => _0x2d045c['id'] == _0x1dca30);
+    return sessionsMessenger[_0x55e396];
+};
+exports[_0x1fa14(0x1c1) + _0x1fa14(0x1f0)] = getMessengerBot;

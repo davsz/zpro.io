@@ -1,0 +1,131 @@
+'use strict';
+const _0x159525 = _0x19c8;
+function _0x6687() {
+    const _0x1f4ae2 = [
+        'glPEF',
+        'SET\x20NULL',
+        'INTEGER',
+        'STRING',
+        'RESTRICT',
+        '250xMECaB',
+        'erty',
+        'defineProp',
+        'TicketProt',
+        'autoIncrem',
+        '608440xAWEmu',
+        'dropTable',
+        'STihY',
+        '2CBzPKe',
+        'ent',
+        'type',
+        'value',
+        'DATE',
+        'CASCADE',
+        'Tenants',
+        '157266rUTkdj',
+        'DGyBT',
+        'kfcXq',
+        'xlWYJ',
+        'DataTypes',
+        '1982684UlMdnU',
+        'sequelize',
+        'allowNull',
+        'exports',
+        'primaryKey',
+        'Users',
+        '96591UmFvPg',
+        'DLhLT',
+        '16914RXlBwb',
+        'ocols',
+        '1339355JuTIcB',
+        '1585722rxykXj',
+        'fRzuu',
+        'createTabl',
+        '763GDWdry',
+        '__esModule'
+    ];
+    _0x6687 = function () {
+        return _0x1f4ae2;
+    };
+    return _0x6687();
+}
+function _0x19c8(_0x4e2a96, _0x5b51eb) {
+    const _0x5b00ec = _0x6687();
+    return _0x19c8 = function (_0x1f76b4, _0x7f7216) {
+        _0x1f76b4 = _0x1f76b4 - (0x2b7 + -0x56d + 0x32d);
+        let _0x36733f = _0x5b00ec[_0x1f76b4];
+        return _0x36733f;
+    }, _0x19c8(_0x4e2a96, _0x5b51eb);
+}
+(function (_0x6e282, _0x2d8deb) {
+    const _0x1e5b5c = _0x19c8, _0x1b3db7 = _0x6e282();
+    while (!![]) {
+        try {
+            const _0x196671 = parseInt(_0x1e5b5c(0x90)) / (-0x535 + 0x1e5 * 0x12 + -0x1ce4) * (parseInt(_0x1e5b5c(0x7e)) / (-0x308 * -0x2 + 0x644 + -0xc52)) + -parseInt(_0x1e5b5c(0x95)) / (0x3fb * 0x7 + 0x17a0 + -0x337a) + parseInt(_0x1e5b5c(0x8a)) / (0x86b + -0x15c + -0x259 * 0x3) + parseInt(_0x1e5b5c(0x94)) / (-0x1c6c * -0x1 + 0xc * -0x336 + 0xa21) + -parseInt(_0x1e5b5c(0x92)) / (0xe08 + 0x18d3 * -0x1 + 0xad1) * (-parseInt(_0x1e5b5c(0x98)) / (-0x197 * -0x5 + -0x24bf + -0x1 * -0x1cd3)) + parseInt(_0x1e5b5c(0x7b)) / (-0x1 * 0x1ec4 + -0xc0d + -0x61f * -0x7) + parseInt(_0x1e5b5c(0x85)) / (-0x7 * -0x8b + -0x265 * 0xa + 0x142e) * (-parseInt(_0x1e5b5c(0x9f)) / (-0x8ea * 0x3 + 0x17 * -0x15 + 0x1cab));
+            if (_0x196671 === _0x2d8deb)
+                break;
+            else
+                _0x1b3db7['push'](_0x1b3db7['shift']());
+        } catch (_0xdb24dc) {
+            _0x1b3db7['push'](_0x1b3db7['shift']());
+        }
+    }
+}(_0x6687, -0x3 * -0xf704 + -0x4fdb3 + 0x656ba));
+const _0x4d64cd = {};
+_0x4d64cd[_0x159525(0x81)] = !![], Object[_0x159525(0x78) + _0x159525(0x77)](exports, _0x159525(0x99), _0x4d64cd);
+const sequelize_1 = require(_0x159525(0x8b));
+module[_0x159525(0x8d)] = {
+    'up': _0x279bed => {
+        const _0x3d61fe = _0x159525, _0x51d434 = {};
+        _0x51d434[_0x3d61fe(0x9a)] = _0x3d61fe(0x79) + _0x3d61fe(0x93), _0x51d434[_0x3d61fe(0x86)] = _0x3d61fe(0x83), _0x51d434[_0x3d61fe(0x91)] = _0x3d61fe(0x9e), _0x51d434[_0x3d61fe(0x88)] = _0x3d61fe(0x8f), _0x51d434[_0x3d61fe(0x7d)] = _0x3d61fe(0x9b), _0x51d434[_0x3d61fe(0x87)] = _0x3d61fe(0x84);
+        const _0x41edf5 = _0x51d434, _0x50dab3 = {};
+        return _0x50dab3[_0x3d61fe(0x80)] = sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x9c)], _0x50dab3[_0x3d61fe(0x7a) + _0x3d61fe(0x7f)] = !![], _0x50dab3[_0x3d61fe(0x8e)] = !![], _0x50dab3[_0x3d61fe(0x8c)] = ![], _0x279bed[_0x3d61fe(0x97) + 'e'](_0x41edf5[_0x3d61fe(0x9a)], {
+            'id': _0x50dab3,
+            'protocol': {
+                'type': sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x9d)],
+                'onUpdate': _0x41edf5[_0x3d61fe(0x86)],
+                'onDelete': _0x41edf5[_0x3d61fe(0x91)],
+                'allowNull': ![]
+            },
+            'ticketId': {
+                'type': sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x9c)],
+                'onUpdate': _0x41edf5[_0x3d61fe(0x86)],
+                'onDelete': _0x41edf5[_0x3d61fe(0x86)],
+                'allowNull': ![]
+            },
+            'userId': {
+                'type': sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x9c)],
+                'references': {
+                    'model': _0x41edf5[_0x3d61fe(0x88)],
+                    'key': 'id'
+                },
+                'onUpdate': _0x41edf5[_0x3d61fe(0x86)],
+                'onDelete': _0x41edf5[_0x3d61fe(0x7d)]
+            },
+            'tenantId': {
+                'type': sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x9c)],
+                'references': {
+                    'model': _0x41edf5[_0x3d61fe(0x87)],
+                    'key': 'id'
+                },
+                'onUpdate': _0x41edf5[_0x3d61fe(0x86)],
+                'onDelete': _0x41edf5[_0x3d61fe(0x86)],
+                'allowNull': ![]
+            },
+            'createdAt': {
+                'type': sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x82)],
+                'allowNull': ![]
+            },
+            'updatedAt': {
+                'type': sequelize_1[_0x3d61fe(0x89)][_0x3d61fe(0x82)],
+                'allowNull': ![]
+            }
+        });
+    },
+    'down': _0x4bca53 => {
+        const _0x2f4190 = _0x159525, _0x31af3f = {};
+        _0x31af3f[_0x2f4190(0x96)] = _0x2f4190(0x79) + _0x2f4190(0x93);
+        const _0xf4c1e2 = _0x31af3f;
+        return _0x4bca53[_0x2f4190(0x7c)](_0xf4c1e2[_0x2f4190(0x96)]);
+    }
+};

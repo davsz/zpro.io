@@ -1,0 +1,177 @@
+'use strict';
+function _0x32c3(_0x444127, _0x5b06df) {
+    const _0x5f438a = _0x2d10();
+    return _0x32c3 = function (_0x4a8a11, _0x3514b2) {
+        _0x4a8a11 = _0x4a8a11 - (-0x13a9 + -0xb3 * -0x2 + 0x133c);
+        let _0x1fb5cb = _0x5f438a[_0x4a8a11];
+        return _0x1fb5cb;
+    }, _0x32c3(_0x444127, _0x5b06df);
+}
+const _0x265f34 = _0x32c3;
+(function (_0x4685b5, _0x59bd02) {
+    const _0x5ab3a7 = _0x32c3, _0x50e9c7 = _0x4685b5();
+    while (!![]) {
+        try {
+            const _0x433524 = parseInt(_0x5ab3a7(0x116)) / (-0x214d + 0x410 + -0x13 * -0x18a) + -parseInt(_0x5ab3a7(0x101)) / (-0x2a8 + -0x21b * -0x9 + -0x1049) * (-parseInt(_0x5ab3a7(0xf9)) / (-0x2525 + -0x159c + 0x1 * 0x3ac4)) + parseInt(_0x5ab3a7(0x11d)) / (-0x5fb * 0x2 + 0xe6e * 0x1 + 0x4 * -0x9d) * (-parseInt(_0x5ab3a7(0x120)) / (0x1d7 * 0x1 + -0x1455 + -0x1283 * -0x1)) + parseInt(_0x5ab3a7(0x106)) / (-0x1bf8 + -0x193e + 0x353c) * (parseInt(_0x5ab3a7(0xff)) / (0x1 * -0x1bf1 + 0x1 * -0x185 + 0x1d7d)) + parseInt(_0x5ab3a7(0x103)) / (-0x2 * -0xfdc + 0xdfd + -0x427 * 0xb) * (parseInt(_0x5ab3a7(0x11e)) / (0xaf1 * -0x3 + -0x47b * 0x3 + -0x9 * -0x525)) + -parseInt(_0x5ab3a7(0x124)) / (0x2c * 0x88 + -0x9a4 + -0x1 * 0xdb2) + -parseInt(_0x5ab3a7(0x105)) / (-0x1 * 0x8c6 + 0x1 * 0x821 + 0x2c * 0x4) * (parseInt(_0x5ab3a7(0xfc)) / (0x1ee7 + -0x425 * 0x1 + 0x1 * -0x1ab6));
+            if (_0x433524 === _0x59bd02)
+                break;
+            else
+                _0x50e9c7['push'](_0x50e9c7['shift']());
+        } catch (_0x53aad9) {
+            _0x50e9c7['push'](_0x50e9c7['shift']());
+        }
+    }
+}(_0x2d10, 0x34f6 + -0x38e5f * -0x1 + 0x1ba7c));
+function _0x2d10() {
+    const _0x5bedb9 = [
+        '2589ijjxzz',
+        'ls/TenantA',
+        '../../erro',
+        '804PLPrXE',
+        'dCmJz',
+        'xhVPQ',
+        '194999iGxpsp',
+        'tenantId',
+        '1350PiLUQW',
+        'bDkkK',
+        '1014248UMiNOc',
+        'aEogb',
+        '54659ljddNo',
+        '78KLudXx',
+        'where',
+        'erty',
+        'mZGlT',
+        'yBWZC',
+        'LBveF',
+        'destroy',
+        'value',
+        'then',
+        '../../mode',
+        'RLiej',
+        'nHqHB',
+        'next',
+        'rs/AppErro',
+        'Gittl',
+        'ERR_NO_TEN',
+        '377448JPFjHu',
+        'ANT_API_FO',
+        '__esModule',
+        'Rckyk',
+        '__awaiter',
+        'done',
+        'EtitO',
+        '928oucNCq',
+        '9DSTBoH',
+        'findOne',
+        '4450OlBDur',
+        'HumxJ',
+        '__importDe',
+        'fault',
+        '5496030vWFwpQ',
+        'default',
+        'apply',
+        'fwalm',
+        'UND',
+        'throw',
+        'defineProp'
+    ];
+    _0x2d10 = function () {
+        return _0x5bedb9;
+    };
+    return _0x2d10();
+}
+var __awaiter = this && this[_0x265f34(0x11a)] || function (_0x55cc33, _0x2503b7, _0x2ac256, _0x23653b) {
+        const _0x3808c2 = _0x265f34, _0x345af9 = {
+                'mZGlT': function (_0x379980, _0x26dcc1) {
+                    return _0x379980(_0x26dcc1);
+                },
+                'xhVPQ': function (_0xb3f866, _0x5dee69) {
+                    return _0xb3f866 instanceof _0x5dee69;
+                },
+                'yBWZC': function (_0x583ec2, _0x194469) {
+                    return _0x583ec2(_0x194469);
+                },
+                'RLiej': function (_0x4f75cf, _0x11a382) {
+                    return _0x4f75cf(_0x11a382);
+                },
+                'dCmJz': function (_0x38dee5, _0x1fba50) {
+                    return _0x38dee5(_0x1fba50);
+                },
+                'Gittl': _0x3808c2(0x129),
+                'bDkkK': function (_0x51a523, _0x3b37a8) {
+                    return _0x51a523(_0x3b37a8);
+                }
+            };
+        function _0x38cb32(_0x4b54a3) {
+            const _0x431793 = _0x3808c2, _0x5ba04a = {
+                    'nHqHB': function (_0x350835, _0x332512) {
+                        const _0x310bca = _0x32c3;
+                        return _0x345af9[_0x310bca(0x109)](_0x350835, _0x332512);
+                    }
+                };
+            return _0x345af9[_0x431793(0xfe)](_0x4b54a3, _0x2ac256) ? _0x4b54a3 : new _0x2ac256(function (_0x90ad26) {
+                const _0x46cdf5 = _0x431793;
+                _0x5ba04a[_0x46cdf5(0x111)](_0x90ad26, _0x4b54a3);
+            });
+        }
+        return new (_0x2ac256 || (_0x2ac256 = Promise))(function (_0x47c388, _0x17edf1) {
+            const _0x234b3b = _0x3808c2, _0x5a3a20 = {
+                    'fwalm': function (_0x2a1595, _0x5651ed) {
+                        const _0x2d68cb = _0x32c3;
+                        return _0x345af9[_0x2d68cb(0x110)](_0x2a1595, _0x5651ed);
+                    },
+                    'EtitO': function (_0x4634e8, _0x59ee74) {
+                        const _0x1c7f63 = _0x32c3;
+                        return _0x345af9[_0x1c7f63(0xfd)](_0x4634e8, _0x59ee74);
+                    },
+                    'HumxJ': function (_0x38a2c0, _0x520d67) {
+                        const _0x1bf382 = _0x32c3;
+                        return _0x345af9[_0x1bf382(0xfd)](_0x38a2c0, _0x520d67);
+                    },
+                    'LBveF': _0x345af9[_0x234b3b(0x114)],
+                    'Rckyk': function (_0x5a31f0, _0x1530fe) {
+                        const _0x145122 = _0x234b3b;
+                        return _0x345af9[_0x145122(0xfd)](_0x5a31f0, _0x1530fe);
+                    }
+                };
+            function _0x1fb68f(_0x1cbfbe) {
+                const _0x3f8cd2 = _0x234b3b;
+                try {
+                    _0x5a3a20[_0x3f8cd2(0x127)](_0x3ebd2c, _0x23653b[_0x3f8cd2(0x112)](_0x1cbfbe));
+                } catch (_0xd3d94f) {
+                    _0x5a3a20[_0x3f8cd2(0x11c)](_0x17edf1, _0xd3d94f);
+                }
+            }
+            function _0x23f065(_0x320c5a) {
+                const _0x34b152 = _0x234b3b;
+                try {
+                    _0x5a3a20[_0x34b152(0x121)](_0x3ebd2c, _0x23653b[_0x5a3a20[_0x34b152(0x10b)]](_0x320c5a));
+                } catch (_0x5a1cbe) {
+                    _0x5a3a20[_0x34b152(0x119)](_0x17edf1, _0x5a1cbe);
+                }
+            }
+            function _0x3ebd2c(_0x41c050) {
+                const _0x95139e = _0x234b3b;
+                _0x41c050[_0x95139e(0x11b)] ? _0x345af9[_0x95139e(0x10a)](_0x47c388, _0x41c050[_0x95139e(0x10d)]) : _0x345af9[_0x95139e(0x10a)](_0x38cb32, _0x41c050[_0x95139e(0x10d)])[_0x95139e(0x10e)](_0x1fb68f, _0x23f065);
+            }
+            _0x345af9[_0x234b3b(0x102)](_0x3ebd2c, (_0x23653b = _0x23653b[_0x234b3b(0x126)](_0x55cc33, _0x2503b7 || []))[_0x234b3b(0x112)]());
+        });
+    }, __importDefault = this && this[_0x265f34(0x122) + _0x265f34(0x123)] || function (_0xcdbe56) {
+        const _0x3b76b2 = _0x265f34;
+        return _0xcdbe56 && _0xcdbe56[_0x3b76b2(0x118)] ? _0xcdbe56 : { 'default': _0xcdbe56 };
+    };
+const _0x37a00f = {};
+_0x37a00f[_0x265f34(0x10d)] = !![], Object[_0x265f34(0x12a) + _0x265f34(0x108)](exports, _0x265f34(0x118), _0x37a00f);
+const TenantApi_1 = __importDefault(require(_0x265f34(0x10f) + _0x265f34(0xfa) + 'pi')), AppError_1 = __importDefault(require(_0x265f34(0xfb) + _0x265f34(0x113) + 'r')), DeleteTenantApiService = (_0x24c71c, _0x4dacd5) => __awaiter(void (-0x15e3 + -0x2b4 * -0x1 + 0x665 * 0x3), void (-0x87c + 0x1 * -0x1652 + -0x1ece * -0x1), void (0x1568 + 0x14f * 0x11 + -0x2ba7), function* () {
+        const _0x58ae70 = _0x265f34, _0x4bb345 = {};
+        _0x4bb345[_0x58ae70(0x104)] = _0x58ae70(0x115) + _0x58ae70(0x117) + _0x58ae70(0x128);
+        const _0x40e4a2 = _0x4bb345, _0x413afc = {};
+        _0x413afc['id'] = _0x24c71c, _0x413afc[_0x58ae70(0x100)] = _0x4dacd5;
+        const _0x5722de = {};
+        _0x5722de[_0x58ae70(0x107)] = _0x413afc;
+        const _0x4e346f = yield TenantApi_1[_0x58ae70(0x125)][_0x58ae70(0x11f)](_0x5722de);
+        if (!_0x4e346f)
+            throw new AppError_1[(_0x58ae70(0x125))](_0x40e4a2[_0x58ae70(0x104)], -0x26ef + 0x3 * 0x6eb + -0x13c2 * -0x1);
+        yield _0x4e346f[_0x58ae70(0x10c)]();
+    });
+exports[_0x265f34(0x125)] = DeleteTenantApiService;

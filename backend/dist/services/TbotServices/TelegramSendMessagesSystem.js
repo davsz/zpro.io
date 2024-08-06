@@ -1,0 +1,334 @@
+'use strict';
+const _0x34bdf7 = _0x2d06;
+(function (_0x545795, _0x29df21) {
+    const _0x4661cd = _0x2d06, _0x3878aa = _0x545795();
+    while (!![]) {
+        try {
+            const _0x19e7ef = -parseInt(_0x4661cd(0x194)) / (0xd6 * -0x1b + 0x1 * 0xca0 + -0x11b * -0x9) * (parseInt(_0x4661cd(0x1ec)) / (0x5b2 + -0x1576 + 0xfc6)) + parseInt(_0x4661cd(0x197)) / (-0x60d * 0x2 + 0x266b * -0x1 + -0x498 * -0xb) * (-parseInt(_0x4661cd(0x1fd)) / (0xe5f + 0x8 * -0x238 + 0x365)) + parseInt(_0x4661cd(0x1dc)) / (-0x84d + 0xc5f * 0x1 + 0x11 * -0x3d) + -parseInt(_0x4661cd(0x1d3)) / (-0x1c20 + -0x3c0 * -0x3 + 0x10e6) * (-parseInt(_0x4661cd(0x1f8)) / (-0x4 * 0x245 + 0x6ed + 0x5d * 0x6)) + parseInt(_0x4661cd(0x203)) / (0x8b + -0x105 * -0x23 + -0x2432) + -parseInt(_0x4661cd(0x1ad)) / (-0xd * 0x17b + 0x2184 + -0xe3c) * (-parseInt(_0x4661cd(0x1fc)) / (0x15 * -0x79 + 0xe28 + -0x1d * 0x25)) + -parseInt(_0x4661cd(0x18f)) / (0x40 * -0x18 + -0x7f * -0x25 + -0xc50) * (parseInt(_0x4661cd(0x1d8)) / (0x1 * -0xb2c + 0x3 * -0x50b + 0x1a59));
+            if (_0x19e7ef === _0x29df21)
+                break;
+            else
+                _0x3878aa['push'](_0x3878aa['shift']());
+        } catch (_0x1f01da) {
+            _0x3878aa['push'](_0x3878aa['shift']());
+        }
+    }
+}(_0x5a9f, -0x488e * -0xe + -0x1 * -0x2dab + -0x227ff));
+var __awaiter = this && this[_0x34bdf7(0x1d1)] || function (_0x560067, _0x185c2f, _0x1f300f, _0x2688e2) {
+        const _0x1b7c94 = _0x34bdf7, _0x584e9f = {
+                'NKtiu': function (_0x5aa1c2, _0x3d46d8) {
+                    return _0x5aa1c2(_0x3d46d8);
+                },
+                'dDmvq': function (_0x122e6b, _0x4271d8) {
+                    return _0x122e6b instanceof _0x4271d8;
+                },
+                'NlfVo': _0x1b7c94(0x18c),
+                'TUQlv': function (_0x29af69, _0xd9c483) {
+                    return _0x29af69(_0xd9c483);
+                },
+                'iFSCH': function (_0x2be7bd, _0x2b8678) {
+                    return _0x2be7bd(_0x2b8678);
+                }
+            };
+        function _0x1d3bc7(_0x2751ad) {
+            const _0x26364c = _0x1b7c94, _0x223264 = {
+                    'uNhOX': function (_0x5adfb6, _0x184a64) {
+                        const _0x59648a = _0x2d06;
+                        return _0x584e9f[_0x59648a(0x201)](_0x5adfb6, _0x184a64);
+                    }
+                };
+            return _0x584e9f[_0x26364c(0x190)](_0x2751ad, _0x1f300f) ? _0x2751ad : new _0x1f300f(function (_0x22ffd4) {
+                const _0x368f0a = _0x26364c;
+                _0x223264[_0x368f0a(0x1f1)](_0x22ffd4, _0x2751ad);
+            });
+        }
+        return new (_0x1f300f || (_0x1f300f = Promise))(function (_0x3544da, _0x1b32ef) {
+            const _0x61ef31 = _0x1b7c94, _0x1549ba = {
+                    'hSdQv': function (_0x364740, _0x265c44) {
+                        const _0x568f1b = _0x2d06;
+                        return _0x584e9f[_0x568f1b(0x201)](_0x364740, _0x265c44);
+                    },
+                    'DVSWO': function (_0x581cf2, _0x1f216e) {
+                        const _0x409126 = _0x2d06;
+                        return _0x584e9f[_0x409126(0x201)](_0x581cf2, _0x1f216e);
+                    },
+                    'jPTwy': _0x584e9f[_0x61ef31(0x199)],
+                    'ZUSUd': function (_0x194575, _0x240f3c) {
+                        const _0x5dd091 = _0x61ef31;
+                        return _0x584e9f[_0x5dd091(0x1e2)](_0x194575, _0x240f3c);
+                    }
+                };
+            function _0x4bbb66(_0x5d6762) {
+                const _0x509cb2 = _0x61ef31;
+                try {
+                    _0x1549ba[_0x509cb2(0x1b8)](_0x541c01, _0x2688e2[_0x509cb2(0x1e5)](_0x5d6762));
+                } catch (_0x44b404) {
+                    _0x1549ba[_0x509cb2(0x1b8)](_0x1b32ef, _0x44b404);
+                }
+            }
+            function _0x4ffa69(_0x228f15) {
+                const _0x18d072 = _0x61ef31;
+                try {
+                    _0x1549ba[_0x18d072(0x1fa)](_0x541c01, _0x2688e2[_0x1549ba[_0x18d072(0x191)]](_0x228f15));
+                } catch (_0x2175f4) {
+                    _0x1549ba[_0x18d072(0x1b8)](_0x1b32ef, _0x2175f4);
+                }
+            }
+            function _0x541c01(_0x3cbb20) {
+                const _0x24bcd0 = _0x61ef31;
+                _0x3cbb20[_0x24bcd0(0x1a7)] ? _0x1549ba[_0x24bcd0(0x1b8)](_0x3544da, _0x3cbb20[_0x24bcd0(0x1f3)]) : _0x1549ba[_0x24bcd0(0x204)](_0x1d3bc7, _0x3cbb20[_0x24bcd0(0x1f3)])[_0x24bcd0(0x1ba)](_0x4bbb66, _0x4ffa69);
+            }
+            _0x584e9f[_0x61ef31(0x1a5)](_0x541c01, (_0x2688e2 = _0x2688e2[_0x61ef31(0x1a0)](_0x560067, _0x185c2f || []))[_0x61ef31(0x1e5)]());
+        });
+    }, __importDefault = this && this[_0x34bdf7(0x205) + _0x34bdf7(0x193)] || function (_0x4d14f2) {
+        const _0x1c1eaa = _0x34bdf7;
+        return _0x4d14f2 && _0x4d14f2[_0x1c1eaa(0x1f5)] ? _0x4d14f2 : { 'default': _0x4d14f2 };
+    };
+const _0x761a7c = {};
+function _0x5a9f() {
+    const _0x128159 = [
+        'sended',
+        'DVSWO',
+        'mediaType',
+        '499080fZHRHG',
+        '4148mEOjTo',
+        'essage_id',
+        'PYgte',
+        'BpSFX',
+        'NKtiu',
+        'FRpED',
+        '1476560KGPcKQ',
+        'ZUSUd',
+        '__importDe',
+        'vVDrt',
+        'LNcGT',
+        'eTxgc',
+        'findAll',
+        'throw',
+        'luHCv',
+        'default',
+        '93676wAlfXd',
+        'dDmvq',
+        'jPTwy',
+        'mediaUrl',
+        'fault',
+        '558hxBCVA',
+        '../../mode',
+        'quotedMsg',
+        '141FzOWjq',
+        'messageId',
+        'NlfVo',
+        'CzBBA',
+        'update',
+        ')::\x20',
+        'sendMessag',
+        'includes',
+        'chat',
+        'apply',
+        'ers/SetTic',
+        'ptt',
+        'public',
+        'jyYqg',
+        'iFSCH',
+        'e\x20media',
+        'done',
+        'contact',
+        'defineProp',
+        'where',
+        'sendPhoto',
+        '../../help',
+        '36mCHsqF',
+        'sendDocume',
+        'sAsRead',
+        'ls/Ticket',
+        'age\x20is\x20(te',
+        'closed',
+        'timestamp',
+        'ers/socket',
+        'audio',
+        'Emit',
+        'video',
+        'hSdQv',
+        'createdAt',
+        'then',
+        'e\x20text',
+        'Nyvda',
+        'erty',
+        'path',
+        'chat:ack',
+        'info',
+        'telegram',
+        'SMDcK',
+        'reply_to_m',
+        's/logger',
+        'sequelize',
+        'error',
+        'aZrXm',
+        'ketMessage',
+        'assign',
+        'ticket',
+        'dataValues',
+        'join',
+        'body',
+        'nFWVf',
+        '\x20message\x20(',
+        'logger',
+        '__awaiter',
+        'sendVideo',
+        '213342cLqQqJ',
+        '\x20|\x20Ticket:',
+        'date',
+        'ikYEb',
+        'source',
+        '348kDrhPY',
+        'pending',
+        'mediaName',
+        'tenantId',
+        '235470rIYVVL',
+        'bmirm',
+        'oSWeV',
+        'tkJlk',
+        'message_id',
+        'SPpnb',
+        'TUQlv',
+        'sendVoice',
+        'text',
+        'next',
+        'tHxbR',
+        'telegramId',
+        'ls/Message',
+        'Error\x20mess',
+        'nant:\x20',
+        'proFl',
+        '146pEzKVD',
+        '../../util',
+        'image',
+        'lMPJw',
+        'id:\x20',
+        'uNhOX',
+        'lte',
+        'value',
+        'ASC',
+        '__esModule',
+        'Error\x20send',
+        'duLsv',
+        '7mvxNji'
+    ];
+    _0x5a9f = function () {
+        return _0x128159;
+    };
+    return _0x5a9f();
+}
+_0x761a7c[_0x34bdf7(0x1f3)] = !![], Object[_0x34bdf7(0x1a9) + _0x34bdf7(0x1bd)](exports, _0x34bdf7(0x1f5), _0x761a7c);
+function _0x2d06(_0x3c5d64, _0x16b720) {
+    const _0x5e18d2 = _0x5a9f();
+    return _0x2d06 = function (_0x1050b7, _0x113f45) {
+        _0x1050b7 = _0x1050b7 - (-0x1 * -0x3fb + 0x1 * 0x467 + -0x6da * 0x1);
+        let _0x3c79c8 = _0x5e18d2[_0x1050b7];
+        return _0x3c79c8;
+    }, _0x2d06(_0x3c5d64, _0x16b720);
+}
+const path_1 = require(_0x34bdf7(0x1be)), sequelize_1 = require(_0x34bdf7(0x1c5)), SetTicketMessagesAsRead_1 = __importDefault(require(_0x34bdf7(0x1ac) + _0x34bdf7(0x1a1) + _0x34bdf7(0x1c8) + _0x34bdf7(0x1af))), socketEmit_1 = __importDefault(require(_0x34bdf7(0x1ac) + _0x34bdf7(0x1b4) + _0x34bdf7(0x1b6))), Message_1 = __importDefault(require(_0x34bdf7(0x195) + _0x34bdf7(0x1e8))), Ticket_1 = __importDefault(require(_0x34bdf7(0x195) + _0x34bdf7(0x1b0))), logger_1 = require(_0x34bdf7(0x1ed) + _0x34bdf7(0x1c4)), SendMessagesSystemWbot = (_0xde809b, _0x1721bc) => __awaiter(void (0x40 * -0xe + 0x2606 + -0x2286), void (0x22a6 + -0x6e3 + -0x67 * 0x45), void (-0x1 * 0x16ca + 0x1b3b * -0x1 + 0xd * 0x3d9), function* () {
+        const _0x3d0f60 = _0x34bdf7, _0x1f8789 = {};
+        _0x1f8789[_0x3d0f60(0x1c7)] = _0x3d0f60(0x1d9), _0x1f8789[_0x3d0f60(0x18d)] = _0x3d0f60(0x1a8), _0x1f8789[_0x3d0f60(0x1ef)] = _0x3d0f60(0x1ca), _0x1f8789[_0x3d0f60(0x1c2)] = _0x3d0f60(0x1b2), _0x1f8789[_0x3d0f60(0x1ce)] = _0x3d0f60(0x1c1), _0x1f8789[_0x3d0f60(0x1eb)] = _0x3d0f60(0x196), _0x1f8789[_0x3d0f60(0x200)] = _0x3d0f60(0x1b9), _0x1f8789[_0x3d0f60(0x1bc)] = _0x3d0f60(0x1f4), _0x1f8789[_0x3d0f60(0x1d6)] = _0x3d0f60(0x19f), _0x1f8789[_0x3d0f60(0x1e1)] = _0x3d0f60(0x1e4), _0x1f8789[_0x3d0f60(0x1e6)] = _0x3d0f60(0x1a3), _0x1f8789[_0x3d0f60(0x1df)] = function (_0xd6acee, _0x30d3ce) {
+            return _0xd6acee === _0x30d3ce;
+        }, _0x1f8789[_0x3d0f60(0x188)] = _0x3d0f60(0x1b5), _0x1f8789[_0x3d0f60(0x1de)] = function (_0x5a2da5, _0xdfb145) {
+            return _0x5a2da5 === _0xdfb145;
+        }, _0x1f8789[_0x3d0f60(0x1dd)] = _0x3d0f60(0x1a2), _0x1f8789[_0x3d0f60(0x18a)] = _0x3d0f60(0x1ee), _0x1f8789[_0x3d0f60(0x202)] = _0x3d0f60(0x1b7), _0x1f8789[_0x3d0f60(0x1ff)] = _0x3d0f60(0x19d) + _0x3d0f60(0x1a6), _0x1f8789[_0x3d0f60(0x1a4)] = _0x3d0f60(0x19d) + _0x3d0f60(0x1bb), _0x1f8789[_0x3d0f60(0x19a)] = function (_0x52f482, _0x1fd9e6) {
+            return _0x52f482 * _0x1fd9e6;
+        }, _0x1f8789[_0x3d0f60(0x1f7)] = _0x3d0f60(0x1f9), _0x1f8789[_0x3d0f60(0x189)] = _0x3d0f60(0x1bf);
+        const _0x3d93b8 = _0x1f8789, _0x2fb7f7 = { [sequelize_1['Op']['is']]: null }, _0x2c4bf6 = {
+                'fromMe': !![],
+                'messageId': _0x2fb7f7,
+                'status': _0x3d93b8[_0x3d0f60(0x1c7)],
+                [sequelize_1['Op']['or']]: [
+                    { 'scheduleDate': { [sequelize_1['Op'][_0x3d0f60(0x1f2)]]: new Date() } },
+                    { 'scheduleDate': { [sequelize_1['Op']['is']]: null } }
+                ]
+            }, _0x454676 = yield Message_1[_0x3d0f60(0x18e)][_0x3d0f60(0x18b)]({
+                'where': _0x2c4bf6,
+                'include': [
+                    _0x3d93b8[_0x3d0f60(0x18d)],
+                    {
+                        'model': Ticket_1[_0x3d0f60(0x18e)],
+                        'as': _0x3d93b8[_0x3d0f60(0x1ef)],
+                        'where': {
+                            'tenantId': _0x1721bc,
+                            [sequelize_1['Op']['or']]: {
+                                'status': { [sequelize_1['Op']['ne']]: _0x3d93b8[_0x3d0f60(0x1c2)] },
+                                'isFarewellMessage': !![]
+                            },
+                            'channel': _0x3d93b8[_0x3d0f60(0x1ce)],
+                            'whatsappId': _0xde809b['id']
+                        },
+                        'include': [_0x3d93b8[_0x3d0f60(0x18d)]]
+                    },
+                    {
+                        'model': Message_1[_0x3d0f60(0x18e)],
+                        'as': _0x3d93b8[_0x3d0f60(0x1eb)],
+                        'include': [_0x3d93b8[_0x3d0f60(0x18d)]]
+                    }
+                ],
+                'order': [[
+                        _0x3d93b8[_0x3d0f60(0x200)],
+                        _0x3d93b8[_0x3d0f60(0x1bc)]
+                    ]]
+            });
+        let _0x6ea9b7;
+        for (const _0x8c4242 of _0x454676) {
+            const _0x215668 = _0x8c4242, {ticket: _0x3c3cde} = _0x215668, _0x189033 = _0x3c3cde[_0x3d0f60(0x1a8)][_0x3d0f60(0x1e7)], _0x48193a = {};
+            _0x215668[_0x3d0f60(0x196)] && (_0x48193a[_0x3d0f60(0x1c3) + _0x3d0f60(0x1fe)] = _0x215668[_0x3d0f60(0x196)][_0x3d0f60(0x198)]);
+            try {
+                if (![
+                        _0x3d93b8[_0x3d0f60(0x1d6)],
+                        _0x3d93b8[_0x3d0f60(0x1e1)]
+                    ][_0x3d0f60(0x19e)](_0x215668[_0x3d0f60(0x1fb)]) && _0x215668[_0x3d0f60(0x1da)]) {
+                    const _0x3f5f57 = (0x1e8f + -0x2251 + -0x1a * -0x25, path_1[_0x3d0f60(0x1cc)])(__dirname, '..', '..', '..', _0x3d93b8[_0x3d0f60(0x1e6)]), _0xeed9d1 = (-0x22 * 0xb + -0x2570 + 0xd * 0x2fe, path_1[_0x3d0f60(0x1cc)])(_0x3f5f57, _0x215668[_0x3d0f60(0x1da)]);
+                    if (_0x3d93b8[_0x3d0f60(0x1df)](_0x215668[_0x3d0f60(0x1fb)], _0x3d93b8[_0x3d0f60(0x188)]) || _0x3d93b8[_0x3d0f60(0x1de)](_0x215668[_0x3d0f60(0x1fb)], _0x3d93b8[_0x3d0f60(0x1dd)])) {
+                        const _0xeae07a = {};
+                        _0xeae07a[_0x3d0f60(0x1d7)] = _0xeed9d1, _0x6ea9b7 = yield _0xde809b[_0x3d0f60(0x1c1)][_0x3d0f60(0x1e3)](_0x189033, _0xeae07a, _0x48193a);
+                    } else {
+                        if (_0x3d93b8[_0x3d0f60(0x1de)](_0x215668[_0x3d0f60(0x1fb)], _0x3d93b8[_0x3d0f60(0x18a)])) {
+                            const _0x5d19b6 = {};
+                            _0x5d19b6[_0x3d0f60(0x1d7)] = _0xeed9d1, _0x6ea9b7 = yield _0xde809b[_0x3d0f60(0x1c1)][_0x3d0f60(0x1ab)](_0x189033, _0x5d19b6, _0x48193a);
+                        } else {
+                            if (_0x3d93b8[_0x3d0f60(0x1de)](_0x215668[_0x3d0f60(0x1fb)], _0x3d93b8[_0x3d0f60(0x202)])) {
+                                const _0x1719fa = {};
+                                _0x1719fa[_0x3d0f60(0x1d7)] = _0xeed9d1, _0x6ea9b7 = yield _0xde809b[_0x3d0f60(0x1c1)][_0x3d0f60(0x1d2)](_0x189033, _0x1719fa, _0x48193a);
+                            } else {
+                                const _0x18daff = {};
+                                _0x18daff[_0x3d0f60(0x1d7)] = _0xeed9d1, _0x6ea9b7 = yield _0xde809b[_0x3d0f60(0x1c1)][_0x3d0f60(0x1ae) + 'nt'](_0x189033, _0x18daff, _0x48193a);
+                            }
+                        }
+                    }
+                    logger_1[_0x3d0f60(0x1d0)][_0x3d0f60(0x1c0)](_0x3d93b8[_0x3d0f60(0x1ff)]);
+                } else
+                    _0x6ea9b7 = yield _0xde809b[_0x3d0f60(0x1c1)][_0x3d0f60(0x19d) + 'e'](_0x189033, _0x215668[_0x3d0f60(0x1cd)], _0x48193a), logger_1[_0x3d0f60(0x1d0)][_0x3d0f60(0x1c0)](_0x3d93b8[_0x3d0f60(0x1a4)]);
+                const _0xe425aa = Object[_0x3d0f60(0x1c9)](Object[_0x3d0f60(0x1c9)](Object[_0x3d0f60(0x1c9)]({}, _0x215668), _0x6ea9b7), {
+                        'id': _0x215668['id'],
+                        'timestamp': _0x3d93b8[_0x3d0f60(0x19a)](_0x6ea9b7[_0x3d0f60(0x1d5)], 0x2706 + 0x18fe + 0x1 * -0x3c1c),
+                        'messageId': _0x6ea9b7[_0x3d0f60(0x1e0)],
+                        'status': _0x3d93b8[_0x3d0f60(0x1f7)],
+                        'ack': 0x2
+                    }), _0x22b70e = {};
+                _0x22b70e['id'] = _0x215668['id'];
+                const _0x33fec8 = {};
+                _0x33fec8[_0x3d0f60(0x1aa)] = _0x22b70e, yield Message_1[_0x3d0f60(0x18e)][_0x3d0f60(0x19b)](Object[_0x3d0f60(0x1c9)]({}, _0xe425aa), _0x33fec8), (0x20db + 0x11 * 0xb1 + -0x2c9c, socketEmit_1[_0x3d0f60(0x18e)])({
+                    'tenantId': _0x3c3cde[_0x3d0f60(0x1db)],
+                    'type': _0x3d93b8[_0x3d0f60(0x189)],
+                    'payload': Object[_0x3d0f60(0x1c9)](Object[_0x3d0f60(0x1c9)]({}, _0x215668[_0x3d0f60(0x1cb)]), {
+                        'id': _0x215668['id'],
+                        'mediaUrl': _0x215668[_0x3d0f60(0x192)],
+                        'timestamp': _0xe425aa[_0x3d0f60(0x1b3)],
+                        'messageId': _0x6ea9b7[_0x3d0f60(0x1e0)],
+                        'status': _0x3d93b8[_0x3d0f60(0x1f7)],
+                        'ack': 0x2
+                    })
+                }), yield (-0xd5c + 0x979 + 0xc7 * 0x5, SetTicketMessagesAsRead_1[_0x3d0f60(0x18e)])(_0x3c3cde);
+            } catch (_0x2314a2) {
+                const _0x19fdca = _0x215668['id'], _0x2af7bd = _0x215668[_0x3d0f60(0x1ca)]['id'];
+                logger_1[_0x3d0f60(0x1d0)][_0x3d0f60(0x1c6)](_0x3d0f60(0x1e9) + _0x3d0f60(0x1b1) + _0x3d0f60(0x1ea) + _0x1721bc + (_0x3d0f60(0x1d4) + '\x20') + _0x2af7bd + ')'), logger_1[_0x3d0f60(0x1d0)][_0x3d0f60(0x1c6)](_0x3d0f60(0x1f6) + _0x3d0f60(0x1cf) + _0x3d0f60(0x1f0) + _0x19fdca + _0x3d0f60(0x19c) + _0x2314a2);
+            }
+        }
+    });
+exports[_0x34bdf7(0x18e)] = SendMessagesSystemWbot;
